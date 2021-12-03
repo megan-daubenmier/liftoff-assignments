@@ -16,6 +16,10 @@ Link to group wireframes: https://docs.google.com/drawings/d/1rxJLrFvMpHvYz6R3Pm
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
+Trello: https://trello.com/b/8sieFcI1/capstone-project
+
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+Project repo: https://github.com/rowandownriver94/EssentialOilsCapstone
